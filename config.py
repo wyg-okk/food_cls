@@ -1,0 +1,11 @@
+root = './'
+log_path = './log/log.txt'
+resume = True
+gpu = 1
+num_classes = 101
+lr = 0.01
+batch_size = 32
+weight_decay = 2e-4
+num_epochs = 100
+momentum = 0.9
+cos = False
